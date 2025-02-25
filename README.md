@@ -1,8 +1,8 @@
 # Przedmiot_Fakultatywny
 
-Zespół:
-Bartłomiej Ślesiński
-Marcin Skorupski
-Tomasz Szafrański
-Kamil Starczewski
+Zespół: <br>
+Bartłomiej Ślesiński <br>
+Marcin Skorupski <br>
+Tomasz Szafrański <br>
+Kamil Starczewski <br>
 Szymon Sender
