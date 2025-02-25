@@ -1,6 +1,6 @@
 # Przedmiot_Fakultatywny
 
-Zespół: <br>
+Zespół MałoKreatywni: <br>
 Bartłomiej Ślesiński <br>
 Marcin Skorupski <br>
 Tomasz Szafrański <br>
