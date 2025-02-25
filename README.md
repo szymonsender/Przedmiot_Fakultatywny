@@ -1,8 +1,8 @@
 # Przedmiot_Fakultatywny
 
 Zespół MałoKreatywni: <br>
-Bartłomiej Ślesiński <br>
-Marcin Skorupski <br>
-Tomasz Szafrański <br>
-Kamil Starczewski <br>
-Szymon Sender
+Marcin Skorupski 161077 <br>
+Bartłomiej Ślesiński 169512 <br>
+Kamil Starczewski 169507 <br>
+Tomasz Szafrański 169510 <br>
+Szymon Sender 169492
